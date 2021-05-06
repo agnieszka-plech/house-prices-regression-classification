@@ -3,7 +3,7 @@
 
 <h2> Introduction <span class="tocSkip"></span></h2>
 
-Those Jupyter Notebook kernels contain Regression and Classification Machine Learning algorithms to predict house prices of residential homes in Ames, Iowa.
+The Jupyter Notebook kernels contain Regression and Classification Machine Learning algorithms to predict house prices of residential homes in Ames, Iowa.
 
 <h2> Business Case <span class="tocSkip"></span></h2>
 
